@@ -51,7 +51,7 @@ npm run dev
 
 
 ### WebSocket's
-I made custom routing based on switch-case. I know about socket.io. I wanted to make it I wanted to do it myself for better understanding of tech.
+I made custom routing based on switch-case. I know about socket.io. I wanted to do it myself for better understanding of tech.
 
 #### Messages
 `new_message` - Handle new message from sender to recipient. Call Firebase notification if recipient isn't online
